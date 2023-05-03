@@ -1,4 +1,4 @@
-# Probleme-de-regresie
+# Problema de regresie
 💡 Probleme
 
 Ce îi poate face pe oameni fericiți? Se consideră problema predicției gradului de fericire a populației globului folosind informații despre diferite caracteristici a bunăstării respectivei populații precum Produsul intern brut al țării în care locuiesc (gross domestic product – GBP), gradul de fericire, etc.
